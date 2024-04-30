@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Watching YouTube", "Playing https://discord.com/invite/NfSQgKkV3Y", "Development by Hikam."];
+const statusMessages = ["Watching Bokep","Listening JKT48", "Daichirou High Class", "Our Places", "Kelas Sir Clan (KLSR)", "Development by Hikam."];
 
 
 let currentIndex = 0;
